@@ -5,7 +5,29 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Animations/Jog_Fwd.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Blueprints/TaskManager/BI_Task.uasset"
 			]
 		}
 	]
