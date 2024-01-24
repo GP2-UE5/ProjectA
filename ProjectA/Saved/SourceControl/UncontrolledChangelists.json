@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Blueprints/TaskManager/TaskData.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Blueprints/TaskManager/TaskStatus.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Blueprints/TaskManager/BI_Task.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Blueprints/TaskManager/TaskActor.uasset",
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset",
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset",
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset",
