@@ -10,6 +10,12 @@
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Blueprints/TaskManager/TaskStatus.uasset",
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Blueprints/TaskManager/BI_Task.uasset",
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Blueprints/TaskManager/TaskActor.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Blueprints/AbilitySystem/GameplayEffects/GE_State_Jump.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Blueprints/AbilitySystem/Abilities/GA_Jump.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Blueprints/AbilitySystem/Abilities/GA_Base.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/ThirdPerson/Blueprints/BP_Player.uasset",
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset",
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset",
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset",
@@ -30,8 +36,7 @@
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset",
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uasset",
 				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset",
-				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Animations/Jog_Fwd.uasset",
-				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Blueprints/TaskManager/BI_Task.uasset"
+				"F:/Abdyli/GIT/GP2/ProjectA/ProjectA/Content/Characters/Mannequin_UE4/Animations/Jog_Fwd.uasset"
 			]
 		}
 	]
